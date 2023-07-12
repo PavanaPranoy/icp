@@ -1,4 +1,6 @@
-Naive Bayes and SVM Methods Student Name: Pavana Pranoy Pondurthi Studnet ID: 700749767
+Name: Pavana Pranoy Pondurthi 
+Student ID: 700749767
+Naive Bayes and SVM Methods  
 
 Based upon the Data SVM method provided an accuracy of 74.42% and GaussianNB Accuracy is 55.81% . With same test size and random state, Thus this states that SVM Algorithm performs well in this case.
 
